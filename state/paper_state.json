@@ -1,0 +1,22 @@
+{
+  "cash": 1737.166488647461,
+  "positions": {
+    "MSFT": {
+      "quantity": 46,
+      "average_price": 529.469970703125
+    },
+    "NVDA": {
+      "quantity": 135,
+      "average_price": 182.4499969482422
+    },
+    "AMZN": {
+      "quantity": 111,
+      "average_price": 221.69000244140625
+    },
+    "GOOGL": {
+      "quantity": 121,
+      "average_price": 203.875
+    }
+  },
+  "next_order_id": 5
+}
