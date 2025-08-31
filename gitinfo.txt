@@ -1,0 +1,11 @@
+
+ГИТ
+
+файл конфигураций чтобы знать кто работает git --config user.name "dwasda"
+git --config user.email "dasdasd"
+
+База данных гит создается git init .
+
+git add file.txt создает снэпшот файла в гит в ветку 
+git status - показывает статусы изменений
+git commit -m "commit" - создает комит изменений в ветку
